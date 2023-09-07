@@ -46,13 +46,13 @@ def send_message(host: str, queue_name: str, message: str):
         ch = conn.channel()
 
         # use the channel to declare a queue
-        ch.queue_declare(queue=queue_name)
+        ch.queue_declare(queue="Thursday")
 
         # use the channel to publish a message to the queue
-        ch.basic_publish(exchange="", routing_key=queue_name, body=message)
+        ch.basic_publish(exchange="", routing_key="Thursday", body="Thursday is almost Friday!")
 
         # log a message for the user
-        logger.info(f" [x] Sent {message}")
+        logger.info(f" [x] Sent 'Thursday is almost Friday!")
 
     except pika.exceptions.AMQPConnectionError as e:
         logger.error(f"Error: Connection to RabbitMQ server failed: {e}")
@@ -66,4 +66,4 @@ def send_message(host: str, queue_name: str, message: str):
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    send_message("llllocalhost", "hello", "Hello World!")
+    send_message("localhost", "Thursday", "Thursday is almost Friday!")
