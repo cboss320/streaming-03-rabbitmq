@@ -165,3 +165,6 @@ Each of the version 2 programs include an error as well.
 - [RabbitMQ Get Started](https://www.rabbitmq.com/#getstarted)
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
+![Alt text](<Screenshot 2023-09-10 at 12.14.40 PM.png>)
+
+![Alt text](<Screenshot 2023-09-10 at 12.15.10 PM.png>)
