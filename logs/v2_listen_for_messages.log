@@ -1,7 +1,7 @@
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO ==================================================
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO Today is 2023-09-07 at 06:35 PM
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO Running on: posix Darwin 22.6.0
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO Python version:  3.10.11
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO Python path: /Users/courtneypigford/school_env/streaming-03-rabbitmq/.venv
-2023-09-07 18:35:33,342.v2_listen_for_messages.INFO Working dir: /Users/courtneypigford/school_env/streaming-03-rabbitmq
-2023-09-07 18:35:33,343.v2_listen_for_messages.INFO ==================================================
+2023-09-10 11:06:23,595.v2_listen_for_messages.INFO ==================================================
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO Today is 2023-09-10 at 11:06 AM
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO Running on: posix Darwin 22.6.0
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO Python version:  3.10.11
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO Python path: /Users/courtneypigford/school_env/streaming-03-rabbitmq/.venv
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO Working dir: /Users/courtneypigford/school_env/streaming-03-rabbitmq
+2023-09-10 11:06:23,596.v2_listen_for_messages.INFO ==================================================

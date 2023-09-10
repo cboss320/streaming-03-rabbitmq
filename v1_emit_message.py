@@ -1,6 +1,6 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
-
+# Courtney Pigford 9/8/23
 """
 
 # add imports at the beginning of the file
